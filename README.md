@@ -5,21 +5,10 @@
   <p>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0-lightgrey.svg" alt="License: CC0"></a>
-    <a href="https://github.com/ai-boost/awesome-harness-engineering/stargazers"><img src="https://img.shields.io/github/stars/ai-boost/awesome-harness-engineering?style=social" alt="GitHub Stars"></a>
-    <a href="https://github.com/ai-boost/awesome-harness-engineering/network/members"><img src="https://img.shields.io/github/forks/ai-boost/awesome-harness-engineering?style=social" alt="GitHub Forks"></a>
-    <a href="https://github.com/ai-boost/awesome-harness-engineering/commits/main"><img src="https://img.shields.io/github/last-commit/ai-boost/awesome-harness-engineering" alt="Last Commit"></a>
+    <a href="https://github.com/eddyflores100-lang/awesome-harness-engineering/stargazers"><img src="https://img.shields.io/github/stars/eddyflores100-lang/awesome-harness-engineering?style=social" alt="GitHub Stars"></a>
+    <a href="https://github.com/eddyflores100-lang/awesome-harness-engineering/network/members"><img src="https://img.shields.io/github/forks/eddyflores100-lang/awesome-harness-engineering?style=social" alt="GitHub Forks"></a>
+    <a href="https://github.com/eddyflores100-lang/awesome-harness-engineering/commits/main"><img src="https://img.shields.io/github/last-commit/eddyflores100-lang/awesome-harness-engineering" alt="Last Commit"></a>
     <a href="https://linux.do"><img src="https://img.shields.io/badge/Join-linux.do-orange" alt="linux.do"></a>
-  </p>
-  <p>
-    <a href="https://zdoc.app/de/ai-boost/awesome-harness-engineering">Deutsch</a> |
-    <a href="https://zdoc.app/en/ai-boost/awesome-harness-engineering">English</a> |
-    <a href="https://zdoc.app/es/ai-boost/awesome-harness-engineering">Español</a> |
-    <a href="https://zdoc.app/fr/ai-boost/awesome-harness-engineering">Français</a> |
-    <a href="https://zdoc.app/ja/ai-boost/awesome-harness-engineering">日本語</a> |
-    <a href="https://zdoc.app/ko/ai-boost/awesome-harness-engineering">한국어</a> |
-    <a href="https://zdoc.app/pt/ai-boost/awesome-harness-engineering">Português</a> |
-    <a href="https://zdoc.app/ru/ai-boost/awesome-harness-engineering">Русский</a> |
-    <a href="https://zdoc.app/zh/ai-boost/awesome-harness-engineering">中文</a>
   </p>
 </div>
 
